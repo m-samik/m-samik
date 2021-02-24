@@ -57,10 +57,10 @@
 
 
 <a href="https://github.com/m-samik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtabishk&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-samik&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/m-samik">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&theme=light&line_height=27" alt="Tabish's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sanmik&show_icons=true&theme=light&line_height=27" alt="Sami's github stats"/>
 </a>
 
 
