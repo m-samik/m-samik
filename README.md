@@ -1,6 +1,4 @@
-## Hello, I'm [Sami!](https://www.linkedin.com/in/m-samik/) 👋
 
-### I'm a CS Undergrad | Software Developer
 
 - 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , BigData, and Cloud Computing, etc
 - 🌱 I’m currently learning everything 
