@@ -33,38 +33,4 @@
 <br />
 <br />
 
-[![@msamik's Holopin board](https://holopin.me/msamik)](https://holopin.io/@msamik)
 
-
-### 📕 Latest Blog Posts
-
-## Medium: (https://m-samik.medium.com/)
-
-<!-- BLOG-POST-LIST:START 
-- [Running Kubernetes using Minikube on AWS Cloud](https://medium.com/faun/running-kubernetes-using-minikube-on-aws-cloud-f0d9ecad7be7)
-- [Running GUI Applications in Docker — Firefox, Nautilus File Manager.](https://medium.com/swlh/running-gui-applications-in-docker-firefox-nautilus-file-manger-b254d0b68697)
-- [Managing and Deploying Webserver/App using Jenkins and Kubernetes using Jenkins coding file ( called as Jenkins file)](https://www.linkedin.com/pulse/devops-assembly-lines-task-06-managing-deploying-using-khanday/?trackingId=aQpCq%2BQsQSmunVUl6TmUAw%3D%3D)
-- [Auto Rolling-update in K8s using Dynamic Jenkins Cluster](https://www.linkedin.com/pulse/devops-assembly-lines-task-04-auto-rolling-update-k8s-khanday/)
-- [Creating a Web Portal using WordPress and MySQL Database on AWS Cloud with VPC NAT Gateway](linkedin.com/pulse/creating-web-portal-using-wordpress-mysql-database-aws-khanday-1f/)
-- [AWS Drives NETFLIX FORWARD!](https://www.linkedin.com/pulse/aws-drives-netflix-forward-muhammad-tabish-khanday/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.linkedin.com/in/m-samik/detail/recent-activity/posts/)
-
----
-  
-  ### Show some ❤️ by starring some of the repositories!
-
-
-<a href="https://github.com/m-samik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-samik&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/m-samik">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-samik&show_icons=true&theme=light&line_height=27" alt="Sami's github stats"/>
-</a>
-
-
-[instagram]: https://www.instagram.com/m_tabishhh/
-[linkedin]: https://linkedin.com/in/m-samik
-[twitter]: https://twitter.com/m-samik
-[github]: https://github.com/m-samik
